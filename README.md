@@ -51,6 +51,12 @@ Full findings are in `reports/business_report.md`.
 
 ---
 
+## 🎬 Demo
+
+![Hotel Booking Analysis Dashboard](Recording%202026-05-30%20093127.gif)
+
+---
+
 ## 📊 Dataset Schema
 
 | Column | Description |
